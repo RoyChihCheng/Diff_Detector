@@ -1,0 +1,12 @@
+name: diff_dec
+title:
+username: roylanguagetools
+account: roylanguagetools
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14628763
+bundleId: 10190621
+url: https://roylanguagetools.shinyapps.io/diff_dec/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
